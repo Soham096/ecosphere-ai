@@ -22,7 +22,7 @@ def load_data():
 # ==========================================
 st.set_page_config(page_title="EcoSphere AI", page_icon="🌍", layout="wide")
 
-st.title("🌍 EcoSphere AI: EVS Learning Hub")
+st.title("🌍 EcoSphere SGGS: EVS Learning Hub")
 st.markdown("""
 *Comprehensive Flashcards & Visual Learning for Environmental Studies.*
 *Database Size: 1500+ Questions Capability*
